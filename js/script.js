@@ -1,4 +1,4 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2020 colton grant All rights reserved
 //
 // Created by: Colton
 // Created on: april 2023
